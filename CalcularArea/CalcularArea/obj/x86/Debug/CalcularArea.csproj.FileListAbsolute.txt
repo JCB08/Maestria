@@ -1,0 +1,4 @@
+C:\Users\_btintegridad4\Documents\New folder\Tarea Final\CalcularArea\CalcularArea\bin\Debug\CalcularArea.exe
+C:\Users\_btintegridad4\Documents\New folder\Tarea Final\CalcularArea\CalcularArea\bin\Debug\CalcularArea.pdb
+C:\Users\_btintegridad4\Documents\New folder\Tarea Final\CalcularArea\CalcularArea\obj\x86\Debug\CalcularArea.exe
+C:\Users\_btintegridad4\Documents\New folder\Tarea Final\CalcularArea\CalcularArea\obj\x86\Debug\CalcularArea.pdb
